@@ -1,4 +1,3 @@
-
 def func(data):
     b = (''.join(reversed(data)))
     if data == b:
